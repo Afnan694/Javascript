@@ -22,9 +22,15 @@ let score = "33"
 // "afnan" => true
 
 
-let someNumber = 33
+// let someNumber = 33
 
-let stringNumber = String(someNumber)
+// let stringNumber = String(someNumber)
 
-console.log(typeof stringNumber);
+// console.log(typeof stringNumber);
+
+
+
+
+
+
 
